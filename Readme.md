@@ -53,7 +53,7 @@ watson_nlp_basic_auth= #This is basic auth created by postman once you proivide 
 ```
 
 To test already created webtask simple hit the below URL with the keyword
-```
+
 https://wt-642b657e181e49714ba4c45f50fe4cbd-0.sandbox.auth0-extend.com/tweet-sentiment?keyTerm=FTSE
 ```
 
@@ -67,6 +67,7 @@ Sentiment	Sentiment Count
 neutral	58
 negative	28
 positive	14
+
 ```
 ### Example
 
