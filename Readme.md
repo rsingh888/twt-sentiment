@@ -67,7 +67,6 @@ Sentiment	Sentiment Count
 neutral	58
 negative	28
 positive	14
-
 ```
 ### Example
 
