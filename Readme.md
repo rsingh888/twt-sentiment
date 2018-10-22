@@ -70,7 +70,7 @@ positive	14
 ```
 ### Example
 
-![Home page](https://github.com/rsingh888/twt-sentiment/blob/master/Example.JPG "Twt Sentiment home page")
+![Home page](https://github.com/rsingh888/twt-sentiment/blob/master/Example.JPG?raw=true "Twt Sentiment home page")
 
 
 ## Authors
