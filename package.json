@@ -1,0 +1,15 @@
+{
+  "name": "tweet-sentiment",
+  "version": "1.0.0",
+  "description": "A webtask to get sentiment of a keywords from tweets",
+  "main": "tweet-sentiment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajeev Singh",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  }
+}
