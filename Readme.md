@@ -51,11 +51,11 @@ watson_nlp_basic_auth= #This is basic auth created by postman once you proivide 
 ### Running
 
 ```
-
 To test already created webtask simple hit the below URL with the keyword
 
-https://wt-642b657e181e49714ba4c45f50fe4cbd-0.sandbox.auth0-extend.com/tweet-sentiment?keyTerm=FTSE
 ```
+
+https://wt-642b657e181e49714ba4c45f50fe4cbd-0.sandbox.auth0-extend.com/tweet-sentiment?keyTerm=FTSE
 
 ### Output
 
