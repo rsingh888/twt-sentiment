@@ -56,7 +56,7 @@ var tweet_store = [];
             console.log(err);
             throw new Error(err);
           } 
-          if(body.keywords)
+          if(body && body.keywords && body.keywords.length > 1)
           {
             sentiment_store[body.keywords[0].sentiment.label] = sentiment_store[body.keywords[0].sentiment.label] || 0;
             sentiment_store[body.keywords[0].sentiment.label]++;
