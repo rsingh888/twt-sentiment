@@ -19,7 +19,6 @@ Setup Webtask cli from below link
 ### Installing
 
 
-
 1. Clone the repository
 
 ```
